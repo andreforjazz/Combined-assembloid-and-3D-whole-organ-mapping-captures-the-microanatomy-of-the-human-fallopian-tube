@@ -20,10 +20,8 @@ To run the image registration, run code align_all_repeats.m. It will loop throug
 Inputs: 
 
 - pth: path to folder with all conditions image sections. It should have a folder per condition
-
 - nms: cell list of all name of conditions
-
--dt: date of the deep learning model
+- dt: date of the deep learning model
 - scale: scale between 1.25x images and 10x images, in this case is 8. 
 - cropim: cropim =1 when you want to crop the the images to speed up process and reduce memory/storage usage.
 - padnum: when aligning the high resolution images, what's the padding value you want to add to the surrounding of the image (in this case label 3 is white space)
