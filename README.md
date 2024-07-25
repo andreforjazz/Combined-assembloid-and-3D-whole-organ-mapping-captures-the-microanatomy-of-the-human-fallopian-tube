@@ -69,9 +69,9 @@ For organoids replicating different anatomical components, additional metrics ca
 
 The primary code for this study is based on the initial sources provided above. However, for this CODA organoids paper, some codes were updated and fine-tuned to facilitate the 3D mapping of human fallopian tube organoids.
 
-### Repository
+### Zenodo Repository
 
-The GitHub repository for this project can be found here: [Combined-assembloid-and-3D-whole-organ-mapping-captures-the-microanatomy-of-the-human-fallopian-tube](https://github.com/andreforjazz/Combined-assembloid-and-3D-whole-organ-mapping-captures-the-microanatomy-of-the-human-fallopian-tube)
+The GitHub repository for this project can be found here: [https://zenodo.org/records/12820765]
 
 ### Contact
 
